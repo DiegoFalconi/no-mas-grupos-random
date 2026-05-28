@@ -21,10 +21,10 @@ El sistema utiliza esta información para recomendar estudiantes compatibles y f
 * Historial de desempeño
 ### Público objetivo
 
-Estudiantes universitarios y colegios.
+Estudiantes universitarios y escolares que realizan trabajos grupales y necesitan equipos más organizados y equilibrados.
 
 ### Integrantes y roles
-* Líder de proyecto: Nombre
-* Diseñador digital: Nombre
-* Documentador: Tu nombre
-* Administrador GitHub: Nombre
+* Líder de proyecto: Diego Falconi
+* Diseñador digital: Jhanela LLivipuma
+* Documentador: Daniel Zurita
+* Administrador GitHub: Santiago Morales
